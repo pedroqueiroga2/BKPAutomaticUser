@@ -34,6 +34,20 @@ O arquivo acima, realiza o backup automático das pastas: "Desktop", "Documents"
 
 O arquivo acima, conta a quantidade de usuários presentes na máquina, com isso, oferece suporte, caso precise verificar se a quantidade de usuarios na máquina, bate com a quantidade de usuários copiados pelo Script.
 
-# Lembrete
+# Lembretes
 
-O Script não copia aquivos locados antes do diretório "C:\Users".
+- O Script não copia aquivos locados antes do diretório "C:\Users".
+- É preciso alterar de forma manual onde deseja enviar os arquivos de backup.
+
+## Como fazer?
+
+1 - Acesse o arquivos com notepad ou bloco de notas.
+
+2 - mude o destino para onde deseja realizar o Backup, alterando a seguinte linha:
+
+![image](https://github.com/user-attachments/assets/ff2ca69b-c8e0-47c3-a700-36cb17af3eea)
+
+
+
+
+
